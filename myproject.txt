@@ -1,3 +1,3 @@
 Hello
-My name is Baaaart.
+My name is Bart.
 This is my project.
